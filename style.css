@@ -1,28 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 
 h1 {
     text-align: center;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Recursive', sans-serif;
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Recursive', sans-serif;
     margin: 6.02em 3.22em ;
 }
 
 p.DATE {
-    font-family: 'Pangolin', cursive;
+    font-family: 'Recursive', sans-serif;
     font-style: oblique;
 }
 
 p.TIME {
-    font-family: 'Pangolin', cursive;
+    font-family: 'Recursive', sans-serif;
     font-style: oblique;
 }
 
 p.REGARDS {
-    font-family: 'Pangolin', cursive;
+    font-family: 'Recursive', sans-serif;
     font-style: oblique;
+}
+
+ol {
+    font-family: 'Recursive', sans-serif;
+    margin: 6.02em 3.22em ;
 }
